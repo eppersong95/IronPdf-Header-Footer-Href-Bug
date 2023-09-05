@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPdf-Header-Footer-Href-Bug", "IronPdf-Header-Footer-Href-Bug\IronPdf-Header-Footer-Href-Bug.csproj", "{CF4D1C01-7E2F-48D1-A99E-D9C9805610EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4D1C01-7E2F-48D1-A99E-D9C9805610EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4D1C01-7E2F-48D1-A99E-D9C9805610EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4D1C01-7E2F-48D1-A99E-D9C9805610EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4D1C01-7E2F-48D1-A99E-D9C9805610EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27516782-E3D0-4AD2-B1D0-CC658EC0905D}
+	EndGlobalSection
+EndGlobal
